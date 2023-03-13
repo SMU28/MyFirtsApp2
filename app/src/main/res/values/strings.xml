@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirtsApp</string>
+    <string name="Textwelcome">Opening The App</string>
+    <string name="descriptionimage">Mariposa</string>
+</resources>
